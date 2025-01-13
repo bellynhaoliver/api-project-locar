@@ -1,0 +1,37 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2020,
+      "cor": "Prata",
+      "tipo": "Sedan",
+      "quilometragem": 35000,
+      "numeroDePortas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2022,
+      "cor": "Preto",
+      "tipo": "Sedan",
+      "quilometragem": 15000,
+      "numeroDePortas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Ranger",
+      "ano": 2021,
+      "cor": "Branco",
+      "tipo": "Picape",
+      "quilometragem": 20000,
+      "numeroDePortas": 4,
+      "imagem": "https://via.placeholder.com/150"
+    }
+  ]
+}
