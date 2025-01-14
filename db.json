@@ -3,7 +3,7 @@
     {
       "marca": "Toyota",
       "modelo": "Corolla",
-      "ano": 2020,
+      "anoFabricacao": 2020,
       "cor": "Prata",
       "tipo": "Sedan",
       "quilometragem": 35000,
@@ -13,7 +13,7 @@
     {
       "marca": "Honda",
       "modelo": "Civic",
-      "ano": 2022,
+      "anoFabricacao": 2022,
       "cor": "Preto",
       "tipo": "Sedan",
       "quilometragem": 15000,
@@ -23,7 +23,7 @@
     {
       "marca": "Toyota",
       "modelo": "Etios",
-      "ano": 2020,
+      "anoFabricacao": 2020,
       "cor": "Vermelho",
       "tipo": "Hatch",
       "quilometragem": 20000,
@@ -33,7 +33,7 @@
     {
       "marca": "Fiat",
       "modelo": "Argo",
-      "ano": 2023,
+      "anoFabricacao": 2023,
       "cor": "Prata",
       "tipo": "Hatch",
       "quilometragem": 17000,
@@ -43,7 +43,7 @@
     {
       "marca": "Volkswagen",
       "modelo": "Polo",
-      "ano": 2022,
+      "anoFabricacao": 2022,
       "cor": "Cinza",
       "tipo": "Hatch",
       "quilometragem": 15000,
